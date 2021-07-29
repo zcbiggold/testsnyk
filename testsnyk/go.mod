@@ -3,6 +3,14 @@ module ginadmin
 go 1.13
 
 require (
+
+
+github.com/valyala/fasttemplate	v1.2.1
+github.com/stretchr/testify	v1.6.1
+github.com/tjfoc/gmsm	v1.3.0
+github.com/didi/gendry	v1.7.0
+github.com/stretchr/testify	v1.5.1
+
 github.com/YunzhanghuOpen/etcd	v0.0.0-20190530103243-54cdb2605d64
 github.com/olivere/elastic	v6.2.35+incompatible
 github.com/zhanghongnian/glog	v0.0.0-20191006035400-c890ddc19451
