@@ -6,6 +6,8 @@ require (
 
 github.com/pkg/sftp	v1.12.0
 
+github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
+github.com/stretchr/testify	v1.2.2
 
 github.com/pingcap/errors	v0.11.0
 github.com/spf13/cobra	v0.0.5
