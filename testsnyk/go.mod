@@ -4,6 +4,28 @@ go 1.13
 
 require (
 
+github.com/spf13/cobra	v1.1.1
+github.com/Shopify/sarama	v1.27.0
+github.com/majidsajadi/sariaf	v0.0.0-20201208003807-b9dcd756d552
+github.com/panjf2000/ants	v2.4.3
+github.com/BurntSushi/toml	v0.3.1
+github.com/sirupsen/logrus	v1.7.0
+github.com/buger/jsonparser	v1.0.0
+github.com/mitchellh/mapstructure	v1.1.2
+github.com/tidwall/gjson	v1.6.0
+github.com/pingcap/check	v0.0.0-20190102082844-67f458068fc8
+github.com/pingcap/errors	v0.11.0
+github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
+github.com/stretchr/testify	v1.2.2
+github.com/YunzhanghuOpen/structs	v1.0.0
+github.com/gin-contrib/pprof	v1.3.0
+github.com/hyperjumptech/grule-rule-engine	v1.8.5
+github.com/pkg/sftp	v1.12.0
+github.com/robfig/cron	v3.0.1
+github.com/spf13/cobra	v0.0.5
+github.com/klauspost/compress	v1.12.2
+github.com/vmihailenco/bufpool	v0.1.11
+github.com/vmihailenco/msgpack	v5.3.2
 
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
 github.com/jaegertracing/jaeger	v1.22.0
