@@ -4,6 +4,12 @@ go 1.13
 
 require (
 
+github.com/jinzhu/copier	v0.0.0-20190924061706-b57f9002281a
+github.com/robfig/cron	v3.0.0
+github.com/YunzhanghuOpen/redis_rate	v6.5.0+incompatible
+github.com/boj/redistore	v0.0.0-20180917114910-cd5dcc76aeff
+github.com/dchest/captcha	v0.0.0-20170622155422-6a29415a8364
+
 github.com/jinzhu/copier	v0.2.8
 github.com/lunny/axmlParser	v0.0.0-20180416145337-3851488a30c1
 github.com/smallnest/weighted	v0.0.0-20201102054551-85ac5c79528c
