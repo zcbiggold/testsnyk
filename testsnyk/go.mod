@@ -56,7 +56,6 @@ github.com/Masterminds/squirrel	v1.2.0
 github.com/gin-contrib/cors	v1.3.1
 github.com/spf13/viper	v1.7.1
 github.com/sirupsen/logrus	v1.5.0
-github.com/spf13/cobra	v0.0.6
 github.com/cenkalti/backoff	v2.2.1+incompatible
 github.com/shopspring/decimal	v0.0.0-20191009025716-f1972eb1d1f5
 github.com/Shopify/sarama	v1.24.1
@@ -75,7 +74,6 @@ github.com/hashicorp/consul/api	v1.8.1
 github.com/lib/pq	v1.3.0
 github.com/ziutek/mymysql	v1.5.4
 github.com/Shopify/sarama	v1.22.1
-
 github.com/cenkalti/backoff	v2.1.1+incompatible
 github.com/shopspring/decimal	v0.0.0-20190905144223-a36b5d85f337
 github.com/prometheus/common	v0.9.1
@@ -101,8 +99,6 @@ github.com/zhanghongnian/unipdf	v3.2.1-0.20200229055943-29efe72c78ce
 github.com/OpenPeeDeeP/depguard	v1.0.0
 github.com/fatih/color	v1.6.0
 github.com/sirupsen/logrus	v1.0.5
-github.com/spf13/cobra	v0.0.2
-github.com/spf13/pflag	v1.0.1
 github.com/timakin/bodyclose	v0.0.0-20190407043127-4a873e97b2bb
 github.com/valyala/quicktemplate	v1.1.1
 mvdan.cc/unparam	v0.0.0-20190124213536-fbb59629db34
@@ -135,7 +131,6 @@ github.com/unidoc/unidoc	v2.2.0+incompatible
 github.com/cockroachdb/cmux	v0.0.0-20170110192607-30d10be49292
 github.com/coreos/etcd	v3.3.9+incompatible
 github.com/rogpeppe/fastuuid	v0.0.0-20150106093220-6724a57986af
-github.com/spf13/cobra	v0.0.3
 github.com/Shopify/sarama	v1.19.0
 github.com/chrislusf/seaweedfs	v0.0.0-20190718065734-c54d9221b906
 github.com/YunzhanghuOpen/glog	v0.0.0-20180818042110-88ca168de194
