@@ -4,6 +4,8 @@ go 1.13
 
 require (
 
+github.com/gin-contrib/pprof	v1.3.0
+github.com/hyperjumptech/grule-rule-engine	v1.8.5
 github.com/pkg/sftp	v1.12.0
 
 github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
