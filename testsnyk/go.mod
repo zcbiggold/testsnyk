@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+github.com/fatih/color	v1.9.0
+github.com/jmoiron/sqlx	v1.3.4
+github.com/pingcap/parser	v0.0.0-20201112105242-773b8b74f44e
+github.com/pingcap/tidb	v1.1.0-beta.0.20201113172225-f9f44d0a492a
+github.com/spf13/cobra	v1.0.0
+github.com/spf13/viper	v1.4.0
+
 github.com/shopspring/decimal	v0.0.0-20180709203117-cd690d0c9e24
 github.com/liut/jpegquality	v0.0.0-20200606101153-6dd6284fded6
 github.com/silenceper/wechat/v2	v2.0.6
