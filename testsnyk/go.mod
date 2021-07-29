@@ -4,6 +4,10 @@ go 1.13
 
 require (
 
+github.com/Shopify/sarama	v1.27.0
+github.com/majidsajadi/sariaf	v0.0.0-20201208003807-b9dcd756d552
+github.com/panjf2000/ants	v2.4.3
+
 github.com/mitchellh/mapstructure	v1.1.2
 github.com/tidwall/gjson	v1.6.0
 github.com/pingcap/check	v0.0.0-20190102082844-67f458068fc8
