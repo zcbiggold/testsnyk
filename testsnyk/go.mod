@@ -4,6 +4,17 @@ go 1.13
 
 require (
 
+
+github.com/gunnsth/pkcs7	v0.0.0-20181213175627-3cffc6fbfe83
+github.com/zhanghongnian/unipdf	v3.2.1-0.20200229055943-29efe72c78ce
+github.com/OpenPeeDeeP/depguard	v1.0.0
+github.com/fatih/color	v1.6.0
+github.com/sirupsen/logrus	v1.0.5
+github.com/spf13/cobra	v0.0.2
+github.com/spf13/pflag	v1.0.1
+github.com/timakin/bodyclose	v0.0.0-20190407043127-4a873e97b2bb
+github.com/valyala/quicktemplate	v1.1.1
+
 github.com/kshvakov/clickhouse	v1.3.11
 github.com/fsnotify/fsnotify	v1.4.7
 github.com/lexkong/log	v0.0.0-20180607165131-972f9cd951fc
