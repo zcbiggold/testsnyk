@@ -7,6 +7,7 @@ require (
 github.com/pkg/sftp	v1.12.0
 
 
+github.com/pingcap/errors	v0.11.0
 github.com/spf13/cobra	v0.0.5
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
 github.com/jaegertracing/jaeger	v1.22.0
