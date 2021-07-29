@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+
+github.com/OpenPeeDeeP/depguard	v1.0.1
+github.com/fatih/color	v1.7.0
+github.com/jingyugao/rowserrcheck	v0.0.0-20191204022205-72ab7603b68a
+github.com/spf13/pflag	v1.0.5
+github.com/spf13/viper	v1.6.1
+
 github.com/spaolacci/murmur3	v1.1.0
 github.com/Benjamintf1/unmarshalledmatchers	v0.0.0-20190408201839-bb1c1f34eaea
 github.com/mennanov/fieldmask-utils	v0.3.2
