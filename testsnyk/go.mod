@@ -6,7 +6,6 @@ require (
 
 
 github.com/gunnsth/pkcs7	v0.0.0-20181213175627-3cffc6fbfe83
-github.com/zhanghongnian/unipdf	v3.2.1-0.20200229055943-29efe72c78ce
 github.com/OpenPeeDeeP/depguard	v1.0.0
 github.com/fatih/color	v1.6.0
 github.com/sirupsen/logrus	v1.0.5
