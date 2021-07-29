@@ -4,8 +4,6 @@ go 1.13
 
 require (
 github.com/go-redis/redis	v6.15.9+incompatible
-go.etcd.io/etcd	v3.3.25+incompatible
-google.golang.org/grpc	v1.34.0
 github.com/YunzhanghuOpen/etcd	v0.0.0-20190530103243-54cdb2605d64
 github.com/YunzhanghuOpen/etcd/clientv3	v0.0.0-20190530103243-54cdb2605d64
 github.com/YunzhanghuOpen/etcd/concurrency	v0.0.0-20190530103243-54cdb2605d64
@@ -689,8 +687,6 @@ github.com/spf13/pflag	v1.0.1
 github.com/timakin/bodyclose	v0.0.0-20190407043127-4a873e97b2bb
 github.com/valyala/quicktemplate	v1.1.1
 golang.org/x/tools	v0.0.0-20190521203540-521d6ed310dd
-gopkg.in/yaml.v2	v2.2.1
-mvdan.cc/unparam	v0.0.0-20190124213536-fbb59629db34
 github.com/coreos/etcd	v3.3.25+incompatible
 github.com/kevwan/mysql	v1.0.3
 github.com/kevwan/radix.v2	v0.0.0-20181130072514-265d30d4ca42
