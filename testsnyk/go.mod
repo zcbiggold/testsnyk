@@ -13,6 +13,7 @@ github.com/pkg/sftp	v1.13.0
 github.com/pkg/errors	v0.8.1
 github.com/qax-os/excelize	v2.4.0
 github.com/jmoiron/sqlx	v1.3.3
-github.com/devopsfaith/krakend	v1.3.0
+github.com/jmoiron/sqlx	v1.2.0
+github.com/luraproject/lura	v1.3.0
 github.com/fullstorydev/grpcurl	v1.7.0
 )
