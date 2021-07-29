@@ -6,6 +6,7 @@ require (
 
 github.com/pkg/sftp	v1.12.0
 
+github.com/robfig/cron	v3.0.1
 
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
 github.com/jaegertracing/jaeger	v1.22.0
