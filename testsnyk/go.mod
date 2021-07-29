@@ -7,8 +7,6 @@ require (
 
 github.com/openex27/tools	v0.0.0-20201109091933-7a18a9177ae1
 github.com/markphelps/optional	v0.7.0
-github.com/rickb777/date	v1.12.5
-github.com/rickb777/date	v1.12.4
 github.com/cloudflare/cfssl	v0.0.0-20180223231731-4e2dcbde5004
 github.com/miekg/pkcs11	v0.0.0-20190329070431-55f3fac3af27
 github.com/mitchellh/mapstructure	v0.0.0-20180220230111-00c29f56e238
