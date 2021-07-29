@@ -5,8 +5,9 @@ go 1.13
 require (
 
 
+github.com/Masterminds/squirrel	v1.2.0
+github.com/gin-contrib/cors	v1.3.1
 
-github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
 github.com/ultraware/funlen	v0.0.2
 github.com/ultraware/whitespace	v0.0.4
 github.com/valyala/quicktemplate	v1.2.0
