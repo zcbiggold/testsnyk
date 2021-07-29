@@ -36,6 +36,7 @@ github.com/disintegration/imageorient	v0.0.0-20180920195336-8147d86e83ec
 
 github.com/YunzhanghuOpen/gin	v0.0.0-20190508062024-7817c01f0b82
 github.com/didi/gendry	v1.5.0
-github.com/pkg/errors	v0.9.1
+
+github.com/stretchr/testify	v1.7.0
 github.com/YunzhanghuOpen/glog	v0.0.0-20190926084525-25b8947d037f
 )
