@@ -17,6 +17,4 @@ github.com/luraproject/lura	v1.3.0
 github.com/fullstorydev/grpcurl	v1.7.0
 github.com/jmoiron/sqlx	v1.2.0
 github.com/gin-contrib/sessions	v0.0.3
-github.com/jhump/protoreflect	v1.8.2
-github.com/alecthomas/template	v0.0.0-20190718012654-fb15b899a751
 )
