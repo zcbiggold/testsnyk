@@ -13,7 +13,6 @@ github.com/buger/jsonparser	v0.0.0-20180318095312-2cac668e8456
 github.com/jhump/protoreflect	v1.1.0
 github.com/juju/ratelimit	v1.0.1
 github.com/koding/websocketproxy	v0.0.0-20180716164433-0fa3f994f6e7
-github.com/labstack/echo	v0.0.0-20180412143600-6d227dfea4d2
 github.com/prometheus/common	v0.2.0
 github.com/robertkrimen/otto	v0.0.0-20180617131154-15f95af6e78d
 github.com/soheilhy/cmux	v0.1.4
