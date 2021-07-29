@@ -5,6 +5,9 @@ go 1.13
 require (
 
 
+github.com/pkg/sftp	v1.12.0
+github.com/robfig/cron	v3.0.1
+github.com/spf13/cobra	v0.0.5
 github.com/pingcap/errors	v0.11.0
 github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
 github.com/stretchr/testify	v1.2.2
@@ -23,8 +26,6 @@ github.com/spf13/cobra	v1.1.1
 github.com/YunzhanghuOpen/structs	v1.0.0
 
 github.com/klauspost/compress	v1.12.2
-github.com/vmihailenco/bufpool	v0.1.11
-github.com/vmihailenco/msgpack	v5.3.2
 
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
 github.com/jaegertracing/jaeger	v1.22.0
