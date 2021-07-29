@@ -4,6 +4,12 @@ go 1.13
 
 require (
 
+github.com/shopspring/decimal	v0.0.0-20180709203117-cd690d0c9e24
+github.com/liut/jpegquality	v0.0.0-20200606101153-6dd6284fded6
+github.com/silenceper/wechat/v2	v2.0.6
+github.com/stretchr/testify	v1.3.0
+github.com/tidwall/gjson	v1.6.8
+github.com/trifonovmixail/jira-hooks	v0.0.5
 
 github.com/valyala/fasttemplate	v1.2.1
 github.com/stretchr/testify	v1.6.1
