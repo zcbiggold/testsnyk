@@ -4,6 +4,10 @@ go 1.13
 
 require (
 
+github.com/jinzhu/copier	v0.2.8
+github.com/lunny/axmlParser	v0.0.0-20180416145337-3851488a30c1
+github.com/smallnest/weighted	v0.0.0-20201102054551-85ac5c79528c
+github.com/YunzhanghuOpen/glog	v0.0.0-20181120135715-8279b922ba4c
 github.com/vmihailenco/bufpool	v0.1.11
 github.com/BurntSushi/toml	v0.3.1
 github.com/YunzhanghuOpen/structs	v1.0.0
