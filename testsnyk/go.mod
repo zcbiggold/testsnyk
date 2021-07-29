@@ -25,8 +25,8 @@ github.com/BurntSushi/toml	v0.3.1
 github.com/spf13/cobra	v1.1.1
 github.com/YunzhanghuOpen/structs	v1.0.0
 
-github.com/klauspost/compress	v1.12.2
-
+github.com/vmihailenco/bufpool	v0.1.11
+github.com/vmihailenco/msgpack	v5.3.2
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
 github.com/jaegertracing/jaeger	v1.22.0
 github.com/sirupsen/logrus	v1.8.0
