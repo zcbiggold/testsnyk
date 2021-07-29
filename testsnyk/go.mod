@@ -4,6 +4,22 @@ go 1.13
 
 require (
 
+
+github.com/thinkoner/openssl	v0.0.0-20190908133454-3ff6b5aa541a
+github.com/xi2/xz	v0.0.0-20171230120015-48954b6210f8
+github.com/hyperjumptech/grule-rule-engine	v1.7.0
+github.com/bmizerany/assert	v0.0.0-20160611221934-b7ed37b82869
+github.com/jakecoffman/cron	v0.0.0-20190106200828-7e2009c226a5
+github.com/leekchan/accounting	v1.0.0
+github.com/stretchr/testify	v1.6.0
+github.com/bouk/monkey	v1.0.1
+github.com/dchest/captcha	v0.0.0-20200903113550-03f5f0333e1f
+github.com/jakecoffman/cron	v0.0.0-20160912164250-57ac9950da80
+github.com/disintegration/imaging	v1.6.0
+github.com/pkg/sftp	v1.11.0
+github.com/micro/cli	v0.0.0-20180830071301-8b9d33ec2f19
+github.com/uber/jaeger-lib	v1.5.0
+
 github.com/looplab/fsm	v0.1.0
 github.com/cockroachdb/cmux	v0.0.0-20170110192607-30d10be49292
 github.com/coreos/etcd	v3.3.9+incompatible
