@@ -4,6 +4,15 @@ go 1.13
 
 require (
 
+github.com/cenkalti/backoff	v2.1.1+incompatible
+github.com/shopspring/decimal	v0.0.0-20190905144223-a36b5d85f337
+github.com/prometheus/common	v0.9.1
+github.com/olivere/elastic	v6.2.26+incompatible
+github.com/disintegration/imaging	v1.6.2
+github.com/mzky/zip	v0.0.0-20200904040917-f1d406511943
+github.com/v2pro/plz	v0.0.0-20200805122259-422184e41b6e
+github.com/didi/gendry	v1.2.1
+
 github.com/teris-io/shortid	v0.0.0-20171029131806-771a37caa5cf
 github.com/hashicorp/consul/api	v1.8.1
 github.com/lib/pq	v1.3.0
