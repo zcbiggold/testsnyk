@@ -17,7 +17,6 @@ github.com/pingcap/check	v0.0.0-20190102082844-67f458068fc8
 github.com/pingcap/errors	v0.11.0
 github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
 github.com/stretchr/testify	v1.2.2
-github.com/YunzhanghuOpen/structs	v1.0.0
 github.com/gin-contrib/pprof	v1.3.0
 github.com/hyperjumptech/grule-rule-engine	v1.8.5
 github.com/pkg/sftp	v1.12.0
