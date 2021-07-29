@@ -16,18 +16,6 @@ github.com/koding/websocketproxy	v0.0.0-20180716164433-0fa3f994f6e7
 github.com/prometheus/common	v0.2.0
 github.com/robertkrimen/otto	v0.0.0-20180617131154-15f95af6e78d
 github.com/soheilhy/cmux	v0.1.4
-github.com/valyala/fasthttp	v1.2.0
-github.com/valyala/fastrand	v1.0.0
-github.com/openex27/tools	v0.0.0-20201109091933-7a18a9177ae1
-github.com/markphelps/optional	v0.7.0
-github.com/rickb777/date	v1.12.5
-github.com/rickb777/date	v1.12.4
-github.com/cloudflare/cfssl	v0.0.0-20180223231731-4e2dcbde5004
-github.com/miekg/pkcs11	v0.0.0-20190329070431-55f3fac3af27
-github.com/mitchellh/mapstructure	v0.0.0-20180220230111-00c29f56e238
-github.com/prometheus/common	v0.0.0-20180518154759-7600349dcfe1
-github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
-github.com/docker/docker	v1.13.1
 
 
 
