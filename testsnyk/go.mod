@@ -4,6 +4,7 @@ go 1.13
 
 require (
 
+github.com/unidoc/unidoc	v2.2.0+incompatible
 
 github.com/thinkoner/openssl	v0.0.0-20190908133454-3ff6b5aa541a
 github.com/xi2/xz	v0.0.0-20171230120015-48954b6210f8
