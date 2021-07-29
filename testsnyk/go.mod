@@ -4,7 +4,7 @@ go 1.13
 
 require (
 
-github.com/robfig/cron	v3.0.0
+github.com/jinzhu/copier	v0.0.0-20190924061706-b57f9002281a
 github.com/YunzhanghuOpen/redis_rate	v6.5.0+incompatible
 github.com/boj/redistore	v0.0.0-20180917114910-cd5dcc76aeff
 github.com/dchest/captcha	v0.0.0-20170622155422-6a29415a8364
