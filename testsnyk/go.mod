@@ -3,7 +3,6 @@ module ginadmin
 go 1.13
 
 require (
-github.com/julienschmidt/httprouter	v1.3.0
 github.com/prometheus/common	v0.10.0
 github.com/tidwall/pretty	v1.0.1
 github.com/Shopify/sarama	v1.26.1
