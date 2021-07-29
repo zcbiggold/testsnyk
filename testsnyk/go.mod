@@ -4,6 +4,19 @@ go 1.13
 
 require (
 
+github.com/importcjj/sensitive	v0.0.0-20190611120559-289e87ec4108
+github.com/tjfoc/gmsm	v1.3.2
+github.com/grpc-ecosystem/grpc-gateway	v1.9.2
+github.com/pierrec/lz4	v2.0.2+incompatible
+github.com/pkg/errors	v0.8.0
+github.com/stretchr/testify	v0.0.0-20171018052257-2aa2c176b9da
+github.com/ghodss/yaml	v1.0.0
+github.com/grpc-ecosystem/grpc-gateway	v1.8.5
+github.com/pingcap/parser	v0.0.0-20210108074737-814a888e05e2
+github.com/disintegration/imaging	v1.6.1
+github.com/hexinmin/glog	v0.0.0-20190626053410-31f89117d414
+github.com/leekchan/accounting	v0.0.0-20180703100437-18a1925d6514
+
 github.com/coreos/etcd	v3.3.25+incompatible
 github.com/kevwan/mysql	v1.0.3
 github.com/kevwan/radix.v2	v0.0.0-20181130072514-265d30d4ca42
