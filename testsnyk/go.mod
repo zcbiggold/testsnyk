@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+github.com/labstack/echo	v0.0.0-20180412143600-6d227dfea4d2
+github.com/prometheus/common	v0.2.0
+github.com/robertkrimen/otto	v0.0.0-20180617131154-15f95af6e78d
+github.com/soheilhy/cmux	v0.1.4
+github.com/valyala/fasthttp	v1.2.0
+github.com/valyala/fastrand	v1.0.0
+
 github.com/buger/jsonparser	v0.0.0-20180318095312-2cac668e8456
 
 github.com/juju/ratelimit	v1.0.1
