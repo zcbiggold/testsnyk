@@ -4,6 +4,10 @@ go 1.13
 
 require (
 
+github.com/mitchellh/mapstructure	v1.1.2
+github.com/tidwall/gjson	v1.6.0
+github.com/pingcap/check	v0.0.0-20190102082844-67f458068fc8
+
 github.com/sirupsen/logrus	v1.7.0
 github.com/buger/jsonparser	v1.0.0
 
