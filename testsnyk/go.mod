@@ -3,7 +3,6 @@ module ginadmin
 go 1.13
 
 require (
-github.com/jaegertracing/jaeger	v1.18.1
 github.com/julienschmidt/httprouter	v1.3.0
 github.com/prometheus/common	v0.10.0
 github.com/tidwall/pretty	v1.0.1
@@ -60,7 +59,6 @@ github.com/stretchr/testify	v1.2.2
 github.com/pingcap/errors	v0.11.0
 github.com/spf13/cobra	v0.0.5
 github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
-github.com/jaegertracing/jaeger	v1.22.0
 github.com/sirupsen/logrus	v1.8.0
 github.com/panjf2000/gnet	v1.4.0
 github.com/logrusorgru/aurora	v2.0.3+incompatible
