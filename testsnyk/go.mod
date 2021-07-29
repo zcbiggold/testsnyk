@@ -4,8 +4,6 @@ go 1.13
 
 require (
 
-github.com/spf13/viper	v1.7.1
-
 github.com/unidoc/unidoc	v2.2.0+incompatible
 
 github.com/thinkoner/openssl	v0.0.0-20190908133454-3ff6b5aa541a
