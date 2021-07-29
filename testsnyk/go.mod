@@ -4,6 +4,19 @@ go 1.13
 
 require (
 
+github.com/kshvakov/clickhouse	v1.3.11
+github.com/fsnotify/fsnotify	v1.4.7
+github.com/lexkong/log	v0.0.0-20180607165131-972f9cd951fc
+github.com/willf/pad	v0.0.0-20190207183901-eccfe5d84172
+github.com/cenkalti/backoff	v1.0.0
+github.com/inconshreveable/log15	v0.0.0-20180818164646-67afb5ed74ec
+github.com/shopspring/decimal	v0.0.0-20200227202807-02e2044944cc
+github.com/bsm/sarama-cluster	v2.1.15+incompatible
+github.com/cloudflare/backoff	v0.0.0-20161212185259-647f3cdfc87a
+github.com/xlstudio/wxbizdatacrypt	v0.0.0-20190418111444-c3e116880c11
+github.com/YunzhanghuOpen/dbf	v0.0.0-20180704082320-37a928f8d0c4
+github.com/lib/pq	v1.0.0
+
 github.com/cenkalti/backoff	v2.1.1+incompatible
 github.com/shopspring/decimal	v0.0.0-20190905144223-a36b5d85f337
 github.com/prometheus/common	v0.9.1
