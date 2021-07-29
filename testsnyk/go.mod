@@ -19,6 +19,4 @@ github.com/jmoiron/sqlx	v1.2.0
 github.com/gin-contrib/sessions	v0.0.3
 github.com/jhump/protoreflect	v1.8.2
 github.com/alecthomas/template	v0.0.0-20190718012654-fb15b899a751
-github.com/tealeg/xlsx	v3.2.3
-github.com/YunzhanghuOpen/glog	v0.0.0-20190715023535-a9a193fc18f9
 )
