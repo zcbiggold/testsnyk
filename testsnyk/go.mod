@@ -4,6 +4,21 @@ go 1.13
 
 require (
 
+
+github.com/Shopify/sarama	v1.22.2-0.20190604114437-cd910a683f9f
+github.com/jaegertracing/jaeger	v1.22.0
+github.com/sirupsen/logrus	v1.8.0
+github.com/panjf2000/gnet	v1.4.0
+github.com/logrusorgru/aurora	v2.0.3+incompatible
+github.com/Masterminds/squirrel	v1.4.0
+github.com/jhump/protoreflect	v1.6.1
+github.com/didi/gendry	v1.3.1
+github.com/jmoiron/sqlx	v1.2.1-0.20190826204134-d7d95172beb5
+github.com/gin-contrib/sse	v0.1.0
+github.com/fsnotify/fsnotify	v1.4.9
+github.com/jinzhu/copier	v0.3.2
+
+
 github.com/fatih/color	v1.9.0
 github.com/jmoiron/sqlx	v1.3.4
 github.com/pingcap/parser	v0.0.0-20201112105242-773b8b74f44e
