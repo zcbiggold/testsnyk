@@ -16,5 +16,4 @@ github.com/jmoiron/sqlx	v1.2.0
 github.com/luraproject/lura	v1.3.0
 github.com/fullstorydev/grpcurl	v1.7.0
 github.com/jmoiron/sqlx	v1.2.0
-github.com/gin-contrib/sessions	v0.0.3
 )
