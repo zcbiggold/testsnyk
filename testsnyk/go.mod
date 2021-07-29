@@ -100,7 +100,6 @@ github.com/fatih/color	v1.6.0
 github.com/sirupsen/logrus	v1.0.5
 github.com/timakin/bodyclose	v0.0.0-20190407043127-4a873e97b2bb
 github.com/valyala/quicktemplate	v1.1.1
-mvdan.cc/unparam	v0.0.0-20190124213536-fbb59629db34
 github.com/coreos/etcd	v3.3.25+incompatible
 github.com/kevwan/mysql	v1.0.3
 github.com/kevwan/radix.v2	v0.0.0-20181130072514-265d30d4ca42
@@ -150,23 +149,28 @@ github.com/dchest/captcha	v0.0.0-20200903113550-03f5f0333e1f
 github.com/jakecoffman/cron	v0.0.0-20160912164250-57ac9950da80
 github.com/disintegration/imaging	v1.6.0
 github.com/pkg/sftp	v1.11.0
-github.com/micro/cli	v0.0.0-20180830071301-8b9d33ec2f19
 github.com/uber/jaeger-lib	v1.5.0
-
 github.com/jaegertracing/jaeger	v1.19.2
 github.com/sirupsen/logrus	v1.4.2
 github.com/jhump/protoreflect	v1.7.0
 github.com/julienschmidt/httprouter	v1.2.0
 github.com/didi/gendry	v1.4.0
-
 github.com/devopsfaith/krakend	v1.1.1
 github.com/gin-contrib/pprof	v1.2.1
 github.com/prometheus/client_model	v0.2.0
+
 
 github.com/jinzhu/copier	v0.0.0-20190924061706-b57f9002281a
 github.com/YunzhanghuOpen/redis_rate	v6.5.0+incompatible
 github.com/boj/redistore	v0.0.0-20180917114910-cd5dcc76aeff
 github.com/dchest/captcha	v0.0.0-20170622155422-6a29415a8364
+
+
+
+
+
+
+
 
 github.com/jinzhu/copier	v0.2.8
 github.com/lunny/axmlParser	v0.0.0-20180416145337-3851488a30c1
