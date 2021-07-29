@@ -4,12 +4,12 @@ go 1.13
 
 require (
 
+github.com/Benjamintf1/unmarshalledmatchers	v0.0.0-20190408201839-bb1c1f34eaea
+github.com/mennanov/fieldmask-utils	v0.3.2
 github.com/Jeffail/gabs	v1.4.0
 github.com/ory/fosite	v0.30.2
 github.com/didi/gendry	v1.3.2
 github.com/YunzhanghuOpen/glog	v0.0.0-20200310081735-2f745a751def
-github.com/4396/redsync	v0.0.0-20190801135629-62d994bf2f63
-github.com/spaolacci/murmur3	v1.1.0
 
 github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
 github.com/docker/docker	v1.13.1
