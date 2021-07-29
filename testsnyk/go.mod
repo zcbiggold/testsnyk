@@ -4,6 +4,12 @@ go 1.13
 
 require (
 
+github.com/teris-io/shortid	v0.0.0-20171029131806-771a37caa5cf
+github.com/hashicorp/consul/api	v1.8.1
+github.com/lib/pq	v1.3.0
+github.com/ziutek/mymysql	v1.5.4
+github.com/Shopify/sarama	v1.22.1
+
 github.com/fatih/structs	v1.1.0
 github.com/ory/fosite-example	v0.0.0-20191125094722-21823512273f
 github.com/shopspring/decimal	v0.0.0-20200427060321-c939845a686f
