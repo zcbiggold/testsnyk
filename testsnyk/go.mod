@@ -13,5 +13,4 @@ github.com/pkg/sftp	v1.13.0
 github.com/pkg/errors	v0.8.1
 github.com/qax-os/excelize	v2.4.0
 github.com/jmoiron/sqlx	v1.3.3
-github.com/jmoiron/sqlx	v1.2.0
 )
