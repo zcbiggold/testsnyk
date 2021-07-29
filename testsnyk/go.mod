@@ -4,6 +4,10 @@ go 1.13
 
 require (
 
+github.com/prometheus/common	v0.10.0
+github.com/tidwall/pretty	v1.0.1
+github.com/Shopify/sarama	v1.26.1
+github.com/Shopify/sarama	v1.24.0
 
 github.com/julienschmidt/httprouter	v1.3.0
 github.com/jaegertracing/jaeger	v1.18.1
