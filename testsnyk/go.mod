@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+github.com/sirupsen/logrus	v1.5.0
+github.com/spf13/cobra	v0.0.6
+github.com/cenkalti/backoff	v2.2.1+incompatible
+github.com/shopspring/decimal	v0.0.0-20191009025716-f1972eb1d1f5
+github.com/Shopify/sarama	v1.24.1
+github.com/sideshow/apns2	v0.20.0
+github.com/boltdb/bolt	v1.3.1
 
 github.com/valyala/quicktemplate	v1.2.0
 github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
