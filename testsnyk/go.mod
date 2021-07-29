@@ -39,4 +39,10 @@ github.com/didi/gendry	v1.5.0
 github.com/YunzhanghuOpen/glog	v0.0.0-20190926084525-25b8947d037f
 github.com/pkg/errors	v0.9.1
 github.com/stretchr/testify	v1.7.0
+
+github.com/didi/gendry	v1.6.0
+github.com/nfnt/resize	v0.0.0-20180221191011-83c6a9932646
+github.com/labstack/echo	v4.1.17
+github.com/segmentio/ksuid	v1.0.3
+github.com/tidwall/gjson	v1.8.0
 )
