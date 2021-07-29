@@ -4,6 +4,20 @@ go 1.13
 
 require (
 
+github.com/looplab/fsm	v0.1.0
+github.com/cockroachdb/cmux	v0.0.0-20170110192607-30d10be49292
+github.com/coreos/etcd	v3.3.9+incompatible
+github.com/rogpeppe/fastuuid	v0.0.0-20150106093220-6724a57986af
+github.com/spf13/cobra	v0.0.3
+github.com/Shopify/sarama	v1.19.0
+github.com/chrislusf/seaweedfs	v0.0.0-20190718065734-c54d9221b906
+github.com/YunzhanghuOpen/glog	v0.0.0-20180818042110-88ca168de194
+github.com/devopsfaith/krakend	v1.2.0
+github.com/alexmullins/zip	v0.0.0-20180717182244-4affb64b04d0
+github.com/chenhg5/collection	v0.0.0-20190814142629-90dbd3edbcac
+github.com/jlaffaye/ftp	v0.0.0-20210307004419-5d4190119067
+github.com/pkg/sftp	v1.8.3
+
 github.com/importcjj/sensitive	v0.0.0-20190611120559-289e87ec4108
 github.com/tjfoc/gmsm	v1.3.2
 github.com/grpc-ecosystem/grpc-gateway	v1.9.2
