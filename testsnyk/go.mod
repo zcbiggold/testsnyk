@@ -26,8 +26,6 @@ github.com/cloudflare/cfssl	v0.0.0-20180223231731-4e2dcbde5004
 github.com/miekg/pkcs11	v0.0.0-20190329070431-55f3fac3af27
 github.com/mitchellh/mapstructure	v0.0.0-20180220230111-00c29f56e238
 github.com/prometheus/common	v0.0.0-20180518154759-7600349dcfe1
-github.com/spf13/cast	v1.2.0
-github.com/spf13/viper	v1.0.2
 github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
 github.com/docker/docker	v1.13.1
 github.com/zhnxin/csvreader	v0.0.0-20190606083136-f9e31b1bce61
@@ -46,15 +44,12 @@ github.com/ory/fosite	v0.30.2
 github.com/OpenPeeDeeP/depguard	v1.0.1
 github.com/fatih/color	v1.7.0
 github.com/jingyugao/rowserrcheck	v0.0.0-20191204022205-72ab7603b68a
-github.com/spf13/pflag	v1.0.5
-github.com/spf13/viper	v1.6.1
 github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
 github.com/ultraware/funlen	v0.0.2
 github.com/ultraware/whitespace	v0.0.4
 github.com/valyala/quicktemplate	v1.2.0
 github.com/Masterminds/squirrel	v1.2.0
 github.com/gin-contrib/cors	v1.3.1
-github.com/spf13/viper	v1.7.1
 github.com/sirupsen/logrus	v1.5.0
 github.com/cenkalti/backoff	v2.2.1+incompatible
 github.com/shopspring/decimal	v0.0.0-20191009025716-f1972eb1d1f5
