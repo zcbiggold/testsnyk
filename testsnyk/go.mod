@@ -5,14 +5,14 @@ go 1.13
 require (
 
 
+github.com/rickb777/date	v1.12.5
+github.com/rickb777/date	v1.12.4
 github.com/openex27/tools	v0.0.0-20201109091933-7a18a9177ae1
 github.com/markphelps/optional	v0.7.0
 github.com/cloudflare/cfssl	v0.0.0-20180223231731-4e2dcbde5004
 github.com/miekg/pkcs11	v0.0.0-20190329070431-55f3fac3af27
 github.com/mitchellh/mapstructure	v0.0.0-20180220230111-00c29f56e238
 github.com/prometheus/common	v0.0.0-20180518154759-7600349dcfe1
-github.com/spf13/cast	v1.2.0
-github.com/spf13/viper	v1.0.2
 
 github.com/labstack/echo	v0.0.0-20180412143600-6d227dfea4d2
 github.com/prometheus/common	v0.2.0
