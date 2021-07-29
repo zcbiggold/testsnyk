@@ -4,6 +4,10 @@ go 1.13
 
 require (
 
+github.com/devopsfaith/krakend	v1.1.1
+github.com/gin-contrib/pprof	v1.2.1
+github.com/prometheus/client_model	v0.2.0
+
 github.com/jinzhu/copier	v0.0.0-20190924061706-b57f9002281a
 github.com/YunzhanghuOpen/redis_rate	v6.5.0+incompatible
 github.com/boj/redistore	v0.0.0-20180917114910-cd5dcc76aeff
