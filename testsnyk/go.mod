@@ -28,25 +28,7 @@ github.com/mitchellh/mapstructure	v0.0.0-20180220230111-00c29f56e238
 github.com/prometheus/common	v0.0.0-20180518154759-7600349dcfe1
 github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
 github.com/docker/docker	v1.13.1
-github.com/zhnxin/csvreader	v0.0.0-20190606083136-f9e31b1bce61
-github.com/olivere/elastic	v6.2.31+incompatible
-github.com/olivere/elastic	v6.2.27+incompatible
-github.com/CatchZeng/dingtalk	v1.1.1
-github.com/sirupsen/logrus	v1.6.0
-github.com/didi/gendry	v1.3.2
-github.com/YunzhanghuOpen/glog	v0.0.0-20200310081735-2f745a751def
-github.com/4396/redsync	v0.0.0-20190801135629-62d994bf2f63
-github.com/spaolacci/murmur3	v1.1.0
-github.com/Benjamintf1/unmarshalledmatchers	v0.0.0-20190408201839-bb1c1f34eaea
-github.com/mennanov/fieldmask-utils	v0.3.2
-github.com/Jeffail/gabs	v1.4.0
-github.com/ory/fosite	v0.30.2
-github.com/OpenPeeDeeP/depguard	v1.0.1
-github.com/fatih/color	v1.7.0
-github.com/jingyugao/rowserrcheck	v0.0.0-20191204022205-72ab7603b68a
-github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
-github.com/ultraware/funlen	v0.0.2
-github.com/ultraware/whitespace	v0.0.4
+
 
 
 
