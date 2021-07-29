@@ -21,4 +21,7 @@ github.com/Masterminds/squirrel	v1.5.0
 
 github.com/rivo/uniseg	v0.2.0
 github.com/robfig/cron	v1.2.0
+
+github.com/gin-contrib/sessions	v0.0.3
+github.com/jhump/protoreflect	v1.8.2
 )
