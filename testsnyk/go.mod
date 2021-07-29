@@ -47,32 +47,7 @@ github.com/jingyugao/rowserrcheck	v0.0.0-20191204022205-72ab7603b68a
 github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
 github.com/ultraware/funlen	v0.0.2
 github.com/ultraware/whitespace	v0.0.4
-github.com/valyala/quicktemplate	v1.2.0
-github.com/Masterminds/squirrel	v1.2.0
-github.com/gin-contrib/cors	v1.3.1
-github.com/sirupsen/logrus	v1.5.0
-github.com/cenkalti/backoff	v2.2.1+incompatible
-github.com/shopspring/decimal	v0.0.0-20191009025716-f1972eb1d1f5
-github.com/Shopify/sarama	v1.24.1
-github.com/sideshow/apns2	v0.20.0
-github.com/boltdb/bolt	v1.3.1
-github.com/fatih/structs	v1.1.0
-github.com/ory/fosite-example	v0.0.0-20191125094722-21823512273f
-github.com/shopspring/decimal	v0.0.0-20200427060321-c939845a686f
-github.com/Valiben/gin_unit_test	v0.0.0-20181205064931-674aee46d090
-github.com/avct/uasurfer	v0.0.0-20191028135549-26b5daa857f1
-github.com/magiconair/properties	v1.8.0
-github.com/open-policy-agent/opa	v0.19.1
-github.com/pborman/uuid	v1.2.0
-github.com/teris-io/shortid	v0.0.0-20171029131806-771a37caa5cf
-github.com/hashicorp/consul/api	v1.8.1
-github.com/lib/pq	v1.3.0
-github.com/ziutek/mymysql	v1.5.4
-github.com/Shopify/sarama	v1.22.1
-github.com/cenkalti/backoff	v2.1.1+incompatible
-github.com/shopspring/decimal	v0.0.0-20190905144223-a36b5d85f337
-github.com/prometheus/common	v0.9.1
-github.com/olivere/elastic	v6.2.26+in
+
 
 
 github.com/jinzhu/copier	v0.0.0-20190924061706-b57f9002281a
