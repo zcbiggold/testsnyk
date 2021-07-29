@@ -27,4 +27,9 @@ github.com/jhump/protoreflect	v1.8.2
 
 github.com/alecthomas/template	v0.0.0-20190718012654-fb15b899a751
 
+github.com/YunzhanghuOpen/glog	v0.0.0-20190715023535-a9a193fc18f9
+github.com/shopspring/decimal	v1.2.1-0.20210329231237-501661573f60
+github.com/axgle/mahonia	v0.0.0-20180208002826-3358181d7394
+github.com/alicebob/miniredis	v2.5.0+incompatible
+github.com/disintegration/imageorient	v0.0.0-20180920195336-8147d86e83ec
 )
