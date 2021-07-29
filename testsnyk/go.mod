@@ -48,7 +48,6 @@ github.com/rivo/uniseg	v0.2.0
 github.com/robfig/cron	v1.2.0
 github.com/shopspring/decimal	v1.2.1-0.20210329231237-501661573f60
 github.com/axgle/mahonia	v0.0.0-20180208002826-3358181d7394
-bou.ke/monkey	v1.0.2
 github.com/alicebob/miniredis	v2.5.0+incompatible
 github.com/disintegration/imageorient	v0.0.0-20180920195336-8147d86e83ec
 github.com/liut/jpegquality	v0.0.0-20200606101153-6dd6284fded6
@@ -147,9 +146,6 @@ github.com/spf13/cast	v1.2.0
 github.com/spf13/viper	v1.0.2
 github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
 github.com/docker/docker	v1.13.1
-istio.io/api	v0.0.0-20191109011911-e51134872853
-k8s.io/api	v0.0.0-20191025225708-5524a3672fbb
-k8s.io/apimachinery	v0.0.0-20191025225532-af6325b3a843
 github.com/zhnxin/csvreader	v0.0.0-20190606083136-f9e31b1bce61
 github.com/olivere/elastic	v6.2.31+incompatible
 github.com/olivere/elastic	v6.2.27+incompatible
@@ -176,8 +172,6 @@ github.com/timakin/bodyclose	v0.0.0-20190930140734-f7f2e9bca95e
 github.com/ultraware/funlen	v0.0.2
 github.com/ultraware/whitespace	v0.0.4
 github.com/valyala/quicktemplate	v1.2.0
-mvdan.cc/interfacer	v0.0.0-20180901003855-c20040233aed
-mvdan.cc/unparam	v0.0.0-20190720180237-d51796306d8f
 github.com/Masterminds/squirrel	v1.2.0
 github.com/gin-contrib/cors	v1.3.1
 github.com/spf13/viper	v1.7.1
@@ -260,7 +254,6 @@ github.com/lithammer/shortuuid/v3	v3.0.4
 github.com/robfig/cron	v1.1.0
 github.com/didi/gendry	v1.1.1
 github.com/importcjj/sensitive	v0.0.0-20190611120559-289e87ec4108
-bou.ke/monkey	v1.0.1
 github.com/tjfoc/gmsm	v1.3.2
 github.com/urfave/cli	v1.20.0
 github.com/grpc-ecosystem/grpc-gateway	v1.9.2
