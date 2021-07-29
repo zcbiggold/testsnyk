@@ -4,6 +4,7 @@ go 1.13
 
 require (
 
+github.com/spaolacci/murmur3	v1.1.0
 github.com/Benjamintf1/unmarshalledmatchers	v0.0.0-20190408201839-bb1c1f34eaea
 github.com/mennanov/fieldmask-utils	v0.3.2
 github.com/Jeffail/gabs	v1.4.0
