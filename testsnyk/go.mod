@@ -4,11 +4,9 @@ go 1.13
 
 require (
 
-github.com/spf13/cobra	v1.1.1
-github.com/Shopify/sarama	v1.27.0
-github.com/majidsajadi/sariaf	v0.0.0-20201208003807-b9dcd756d552
-github.com/panjf2000/ants	v2.4.3
-github.com/BurntSushi/toml	v0.3.1
+
+github.com/YunzhanghuOpen/structs	v1.0.0
+
 github.com/sirupsen/logrus	v1.7.0
 github.com/buger/jsonparser	v1.0.0
 github.com/mitchellh/mapstructure	v1.1.2
