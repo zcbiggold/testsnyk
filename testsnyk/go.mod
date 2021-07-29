@@ -11,7 +11,6 @@ github.com/tidwall/gjson	v1.6.1
 github.com/stretchr/testify	v1.4.0
 github.com/pkg/sftp	v1.13.0
 github.com/pkg/errors	v0.8.1
-github.com/jmoiron/sqlx	v1.2.0
 github.com/qax-os/excelize	v2.4.0
 github.com/jmoiron/sqlx	v1.3.3
 github.com/devopsfaith/krakend	v1.3.0
