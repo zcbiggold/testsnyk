@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+github.com/YunzhanghuOpen/yaml.v2	v0.0.0-20160715033755-e4d366fc3c79
+github.com/docker/docker	v1.13.1
+github.com/zhnxin/csvreader	v0.0.0-20190606083136-f9e31b1bce61
+github.com/olivere/elastic	v6.2.31+incompatible
+github.com/olivere/elastic	v6.2.27+incompatible
+github.com/CatchZeng/dingtalk	v1.1.1
+github.com/sirupsen/logrus	v1.6.0
 
 github.com/spf13/cast	v1.2.0
 github.com/spf13/viper	v1.0.2
