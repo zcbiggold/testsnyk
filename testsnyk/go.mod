@@ -95,7 +95,6 @@ github.com/xlstudio/wxbizdatacrypt	v0.0.0-20190418111444-c3e116880c11
 github.com/YunzhanghuOpen/dbf	v0.0.0-20180704082320-37a928f8d0c4
 github.com/lib/pq	v1.0.0
 github.com/gunnsth/pkcs7	v0.0.0-20181213175627-3cffc6fbfe83
-github.com/zhanghongnian/unipdf	v3.2.1-0.20200229055943-29efe72c78ce
 github.com/OpenPeeDeeP/depguard	v1.0.0
 github.com/fatih/color	v1.6.0
 github.com/sirupsen/logrus	v1.0.5
