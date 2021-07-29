@@ -4,6 +4,13 @@ go 1.13
 
 require (
 
+
+github.com/jaegertracing/jaeger	v1.19.2
+github.com/sirupsen/logrus	v1.4.2
+github.com/jhump/protoreflect	v1.7.0
+github.com/julienschmidt/httprouter	v1.2.0
+github.com/didi/gendry	v1.4.0
+
 github.com/devopsfaith/krakend	v1.1.1
 github.com/gin-contrib/pprof	v1.2.1
 github.com/prometheus/client_model	v0.2.0
