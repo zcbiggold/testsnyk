@@ -4,6 +4,18 @@ go 1.13
 
 require (
 
+github.com/coreos/etcd	v3.3.25+incompatible
+github.com/kevwan/mysql	v1.0.3
+github.com/kevwan/radix.v2	v0.0.0-20181130072514-265d30d4ca42
+github.com/streadway/amqp	v0.0.0-20190404075320-75d898a42a94
+github.com/Shopify/sarama	v1.27.2
+github.com/blang/semver	v3.5.1+incompatible
+github.com/streadway/amqp	v1.0.0
+github.com/dangerous1990/gin-jsoniter	v0.0.0-20190517101531-602ac14b0df2
+github.com/jinzhu/copier	v0.0.0-20180308034124-7e38e58719c3
+github.com/mohae/deepcopy	v0.0.0-20170929034955-c48cc78d4826
+github.com/xlstudio/wxbizdatacrypt	v0.0.0-20180822073906-4c8d395744ac
+github.com/didi/gendry	v1.1.1
 
 github.com/gunnsth/pkcs7	v0.0.0-20181213175627-3cffc6fbfe83
 github.com/OpenPeeDeeP/depguard	v1.0.0
