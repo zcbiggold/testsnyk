@@ -18,7 +18,4 @@ github.com/YunzhanghuOpen/null.v3	v3.0.1+incompatible
 github.com/rs/xid	v1.2.1
 github.com/shopspring/decimal	v1.2.0
 github.com/Masterminds/squirrel	v1.5.0
-github.com/rivo/uniseg	v0.2.0
-github.com/robfig/cron	v1.2.0
-github.com/fullstorydev/grpcurl	v1.7.0
 )
