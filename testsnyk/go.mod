@@ -4,6 +4,15 @@ go 1.13
 
 require (
 
+github.com/fatih/structs	v1.1.0
+github.com/ory/fosite-example	v0.0.0-20191125094722-21823512273f
+github.com/shopspring/decimal	v0.0.0-20200427060321-c939845a686f
+github.com/Valiben/gin_unit_test	v0.0.0-20181205064931-674aee46d090
+github.com/avct/uasurfer	v0.0.0-20191028135549-26b5daa857f1
+github.com/magiconair/properties	v1.8.0
+github.com/open-policy-agent/opa	v0.19.1
+github.com/pborman/uuid	v1.2.0
+
 github.com/sirupsen/logrus	v1.5.0
 github.com/spf13/cobra	v0.0.6
 github.com/cenkalti/backoff	v2.2.1+incompatible
