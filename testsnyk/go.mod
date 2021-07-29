@@ -5,13 +5,13 @@ go 1.13
 require (
 
 
+github.com/Shopify/sarama	v1.27.0
+github.com/majidsajadi/sariaf	v0.0.0-20201208003807-b9dcd756d552
+github.com/panjf2000/ants	v2.4.3
+github.com/BurntSushi/toml	v0.3.1
+github.com/spf13/cobra	v1.1.1
 github.com/YunzhanghuOpen/structs	v1.0.0
 
-github.com/sirupsen/logrus	v1.7.0
-github.com/buger/jsonparser	v1.0.0
-github.com/mitchellh/mapstructure	v1.1.2
-github.com/tidwall/gjson	v1.6.0
-github.com/pingcap/check	v0.0.0-20190102082844-67f458068fc8
 github.com/pingcap/errors	v0.11.0
 github.com/pingcap/parser	v0.0.0-20190506092653-e336082eb825
 github.com/stretchr/testify	v1.2.2
