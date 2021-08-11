@@ -3,6 +3,13 @@ module ginadmin
 go 1.13
 
 require (
+
+
+github.com/4396/redsync	v0.0.0-20190801135629-62d994bf2f63
+github.com/openex27/tools	v0.0.0-20201109091933-7a18a9177ae1
+github.com/jhump/protoreflect	v1.1.0
+
+
 github.com/unidoc/unidoc	v2.2.0+incompatible
 github.com/thinkoner/openssl	v0.0.0-20190908133454-3ff6b5aa541a
 github.com/xi2/xz	v0.0.0-20171230120015-48954b6210f8
